@@ -3,7 +3,7 @@
 - 🤓 I'm Currently Learning How To Code
 - 💫 I Have My Own Server
 - 🤜🤛 Wanna Play With Me? 
-- 🙂 I Know How To Play Mobile Legends,Minecraft 
+- 🙂 I Know How To Play Mobile Legends And Minecraft 
 
 <!--
 **RinierMC/RinierMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
